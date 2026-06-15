@@ -10,7 +10,8 @@ A modern desktop web crawler built with Python and PyQt6 that allows users to ex
 
 ## 📸 Preview
 
-> *(Add a screenshot here later)*
+![Project Screenshot](project_image/screenshot.png)
+
 
 ```
 /project_image/screenshot.png
