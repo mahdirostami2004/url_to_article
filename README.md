@@ -158,7 +158,7 @@ This project demonstrates:
 * Modular Python architecture
 * GUI development with PyQt6
 * Multithreading in desktop apps
-* Practical web scraping techniques
+* Practical web scraping 
 
 ---
 
@@ -167,7 +167,3 @@ This project demonstrates:
 If you found this project useful, consider giving it a star ⭐
 
 ---
-
-## 📎 Notes
-
-This project is intended for educational and demonstration purposes. Always respect website terms of service when scraping.
